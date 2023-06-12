@@ -1,3 +1,9 @@
-<template>
-  <div>Hello world!</div>
+<script setup lang="ts">
+import MainView from '@/views/MainView.vue';
+</script>
+
+<template lang="pug">
+
+MainView
+
 </template>
